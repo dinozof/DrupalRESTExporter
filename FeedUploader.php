@@ -2,7 +2,7 @@
 
 /**
  * author: Stefano Volponi
- * In tutto los cript si considera come utente remoto localhost:8001 e come utente locale (quello che deve caricarsi la copia dei feed) localhost:8002.
+ * In tutto lo script si considera come utente remoto localhost:8001 e come utente locale (quello che deve caricarsi la copia dei feed) localhost:8002.
  * Ad ogni modo le funzioni sono parametrizzate per poter prendere in ingresso qualsiasi indirizzo.
  */
 
@@ -580,9 +580,9 @@
 
 
 
-		
 
-	
+
+
 
 
 ?>

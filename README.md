@@ -311,7 +311,7 @@ E' bene notare che per l'autenticazione delle operazioni dannose, è richiesto d
 
 La funzione può essere sfruttata per altre operazioni di POST, andando a specificare differenti url e access point.
 
-Se l'operazione termina correttamente, la funzine presenterà nel parametro di ritorno `$response` il json contenente le informazioni dell'entity appena creata. Questo non vale per la richiesta di pubblicazione di un post che, nonostante vada a buon fine, ritorna sempre un errore di connessione al server (500). 
+Se l'operazione termina correttamente, la funzine presenterà nel parametro di ritorno `$response` il json contenente le informazioni dell'entity appena creata. Questo non vale per la richiesta di pubblicazione di un post che, nonostante vada a buon fine, ritorna sempre un errore di connessione al server (500).
 
 ```php
 
