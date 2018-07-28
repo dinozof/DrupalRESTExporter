@@ -1,12 +1,16 @@
 ![](./readme_images/logo.jpg)
-<br/>
+
+<!--- <br/>
 <center><font size="4"><b>ASSEGNAMENTO DI SISTEMI DISTRIBUITI</b></font>	</center>
 
 <br/>
 <center><font size="6"><b>IMPLEMENTAZIONE DELL'ESPORTAZIONE ED IMPORTAZIONE DELLO STREAM SOCIALE DI OPENSOCIAL MEDIANTE CHIAMATE REST </b></font></center>
 
 
-<br/>
+<br/> -->
+
+### ASSEGNAMENTO DI SISTEMI DISTRIBUITI
+# IMPLEMENTAZIONE DELL'ESPORTAZIONE ED IMPORTAZIONE DELLO STREAM SOCIALE DI OPENSOCIAL MEDIANTE CHIAMATE REST
 
 # Indice
 1. [Configurazione di OPENSOCIAL per le chiamate REST](#configurazione-di-opensocial-per-le-chiamate-rest)
