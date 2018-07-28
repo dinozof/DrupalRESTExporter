@@ -1,4 +1,4 @@
-![](./readme_images/logo.png)
+![](./readme_images/logo.jpg)
 <br/>
 <center><font size="4"><b>ASSEGNAMENTO DI SISTEMI DISTRIBUITI</b></font>	</center>
 
