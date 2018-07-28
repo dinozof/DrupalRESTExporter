@@ -1,4 +1,4 @@
-<center> ![](./readme_images/logo.jpg)</center>
+<center> ![](./readme_images/logo.png)</center>
 <br/>
 <center><font size="4"><b>ASSEGNAMENTO DI SISTEMI DISTRIBUITI</b></font>	</center>
 
@@ -20,9 +20,9 @@
 	 1. [Formulazione di una richiesta POST](#formulazione-di-una-richiesta-post)
 5. [Creazione delle strutture json](#creazione-delle-strutture-json)
   1. [createPost](#createpost)
- 2. [createPostComment](#createpostcomment)
- 3. [uploadImage](#uploadimage)
- 4. [updateLikes](#updatelikes)
+  2. [createPostComment](#createpostcomment)
+  3. [uploadImage](#uploadimage)
+  4. [updateLikes](#updatelikes)
 6. [Definizione di nuove strutture](#definizione-di-nuove-strutture)
 
 
