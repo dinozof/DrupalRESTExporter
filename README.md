@@ -19,10 +19,10 @@
  2. [FeedUploader](#feeduploader)
 	 1. [Formulazione di una richiesta POST](#formulazione-di-una-richiesta-post)
 5. [Creazione delle strutture json](#creazione-delle-strutture-json)
-  1. [createPost](#createpost)
-  2. [createPostComment](#createpostcomment)
-  3. [uploadImage](#uploadimage)
-  4. [updateLikes](#updatelikes)
+   1. [createPost](#createpost)
+   2. [createPostComment](#createpostcomment)
+   3. [uploadImage](#uploadimage)
+   4. [updateLikes](#updatelikes)
 6. [Definizione di nuove strutture](#definizione-di-nuove-strutture)
 
 
