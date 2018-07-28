@@ -1,0 +1,32 @@
+{
+"type":[
+{
+"target_id": "post"
+}
+],
+"user_id": [
+            {
+                "target_id": 0,
+                "target_type": "user",
+                "target_uuid": "2f8d737e-0050-4e76-8d3c-eac85966f1f2",
+              "url": "\/en\/user\/0\/stream"}
+        ],
+"field_post":[
+{
+"value": "STO USANDO UN ORARIO PERSONALIZZATO\n",
+"format": "basic_html",
+"processed": "<p>STO USANDO UN ORARIO PERSONALIZZATO\n"
+}
+],"created":[
+{
+"value": "2018-07-10T07:33:16+00:00",
+"format": "Y-m-d\\TH:i:sP"
+}
+],
+
+"field_visibility":[
+{
+"value": "0"
+}
+]
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "uuid": "88a536bc-a250-4fea-87b3-b9ef5af7923c",
+        "mid": "1",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "Learn more about the EAA",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/1&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/1&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/1&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "68600eae-127d-4071-beef-c0ef75de6dc8",
+        "mid": "2",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "Welcome to the EAA community",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/2&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/2&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/2&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "d40863e9-1c21-429b-a351-7b83709a0d0c",
+        "mid": "3",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "Discussion about the next event",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/3&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/3\/stream&quot;&gt;Board of School Topic Group&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/3&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/3\/stream&quot;&gt;Board of School Topic Group&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/3&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/3\/stream&quot;&gt;Board of School Topic Group&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "bee6abbc-3d0f-47ff-9b21-f69c60a27c3c",
+        "mid": "4",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "What was your most successful initiative?",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/4&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/3\/stream&quot;&gt;Board of School Topic Group&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/4&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/3\/stream&quot;&gt;Board of School Topic Group&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/4&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/3\/stream&quot;&gt;Board of School Topic Group&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "fbb9b792-a8e0-49bc-a9cb-7ccec2c95033",
+        "mid": "5",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "Donating books to the school library",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/7&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/4\/stream&quot;&gt;Springfield local business collaboration&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/7&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/4\/stream&quot;&gt;Springfield local business collaboration&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/7&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/4\/stream&quot;&gt;Springfield local business collaboration&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "141acb9e-0f8f-4da6-bf5d-5f5018deae83",
+        "mid": "6",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "How Open Social helps communities to grow",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/9&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/9&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/9&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "dbb9fb9f-fafd-4055-8fb2-7f92bf009872",
+        "mid": "7",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "FAQs about Open Social",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/10&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/10&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/10&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "882b8ab9-dba0-4a99-bea8-3de159ace0d2",
+        "mid": "8",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "Should we upgrade to new computers?",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/11&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/5\/stream&quot;&gt;Springfield board committee&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/11&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/5\/stream&quot;&gt;Springfield board committee&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/11&quot;&gt;topic&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/5\/stream&quot;&gt;Springfield board committee&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "0560e045-b4cb-418b-925e-dd806e41d9c6",
+        "mid": "9",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "First National EAA Conference",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/12&quot;&gt;event&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/12&quot;&gt;event&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/12&quot;&gt;event&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/1\/stream&quot;&gt;Official Group Educational Assistance Association&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    },
+    {
+        "uuid": "d4d42437-b164-4d00-8bfc-1aebdb07d2fe",
+        "mid": "10",
+        "created": "Mon, 06\/25\/2018 - 11:18",
+        "message_destination": "Notifications, email",
+        "message_object": "Local Meetup Springfield",
+        "template": "Create a post, topic or event in a joined group",
+        "message_context": "content_in_my_group_activity_context",
+        "get_text": "&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/15&quot;&gt;event&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/2\/stream&quot;&gt;Local School Group Springfield&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/15&quot;&gt;event&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/2\/stream&quot;&gt;Local School Group Springfield&lt;\/a&gt; group.&lt;\/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http:\/\/localhost:8001\/en\/user\/0\/stream&quot;&gt;Anonymous&lt;\/a&gt; created a &lt;a href=&quot;http:\/\/localhost:8001\/en\/node\/15&quot;&gt;event&lt;\/a&gt; in the &lt;a href=&quot;http:\/\/localhost:8001\/en\/group\/2\/stream&quot;&gt;Local School Group Springfield&lt;\/a&gt; group.&lt;\/p&gt;\n"
+    }
+]

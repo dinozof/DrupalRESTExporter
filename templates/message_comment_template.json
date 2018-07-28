@@ -1,0 +1,57 @@
+{
+"comment_type":[
+{
+"target_id": "post_comment",
+"target_type": "comment_type",
+"target_uuid": "1a59df9f-40a8-462a-ad34-89e7bce8732b"
+}
+],
+"status":[
+{
+"value": true
+}
+],
+"pid":[],
+"entity_id":[
+{
+"target_id": 53,
+"target_type": "post",
+"target_uuid": "78a011aa-3939-463c-aab7-77c6eeef7bff",
+"url": "/post/53"
+}
+],
+"subject":[],
+"uid":[
+{
+"target_id": 13,
+"target_type": "user",
+"target_uuid": "44fc40ec-da2f-11e5-b5d2-0a1d41d68578",
+"url": "/it/user/13/stream"
+}
+],
+"name":[],
+"mail":[],
+"homepage":[],
+"entity_type":[
+{
+"value": "post"
+}
+],
+"field_name":[
+{
+"value": "field_post_comments"
+}
+],
+"default_langcode":[
+{
+"value": true
+}
+],
+"field_comment_body":[
+{
+"value": "Sure thing! There are the links to https://www.drupal.org/project/social and to https://github.com/goalgorilla/open_social. I think you will find there everything you need.\n",
+"format": "basic_html",
+"processed": "<p>Sure thing! There are the links to <a href=\"https://www.drupal.org/project/social\">https://www.drupal.org/project/social</a> and to <a href=\"https://github.com/goalgorilla/open_social\">https://github.com/goalgorilla/open_social</a>. I think you will find there everything you need.</p>\n"
+}
+]
+}

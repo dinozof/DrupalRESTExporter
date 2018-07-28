@@ -1,0 +1,46 @@
+{
+  "type":[
+    {
+      "target_id": "photo"
+    }
+  ],
+  "user_id": [
+    {
+      "target_id": 0,
+      "target_type": "user",
+      "target_uuid": "2f8d737e-0050-4e76-8d3c-eac85966f1f2",
+      "url": "\/en\/user\/0\/stream"}
+  ],
+  "field_post_image":[
+    {
+      "target_id":"54"
+    }
+  ],
+  "status":[
+    {
+      "value": true
+    }
+  ],
+  "created":[
+    {
+      "value": "2018-07-24T11:38:53+00:00",
+      "format": "Y-m-d\\TH:i:sP"
+    }
+  ],
+  "default_langcode":[
+    {
+      "value": true,
+      "lang": "en"
+    }
+  ],
+  "field_post":[
+    {"value": "ciao!",
+      "format": "basic_html"
+    }
+  ],
+  "field_visibility":[
+    {
+      "value": "1"
+    }
+  ]
+}
