@@ -112,6 +112,8 @@ Queste possono essere importate direttamente dalla UI di Drupal8 mediante il men
 
 E' importante notare che tali view presentano già degli endpoint associati che vanno abilitati seguendo le istruzioni del prossimo paragrafo.
 
+Particolare attenzione va riposta per la view adibita all'esportazione dei like. [Come riportato più avanti](#updatelikes) presenta un bug che non permette di collegarla al post/commento a cui il like si riferisce.
+
  ## Definizione di una API custom
 
  Per poter accedere alle view appena create mediante chiamate REST, è necessario definire degli endpoint per l'accesso (l'equivalente dei PATHS visti prima). Questi sono configurabili dal menù delle view ("struttura -> views") e sono visibili nella colonna **display**.
